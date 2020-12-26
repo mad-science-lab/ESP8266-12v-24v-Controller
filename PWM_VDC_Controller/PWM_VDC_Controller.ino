@@ -5,7 +5,7 @@
 
 int i;                                                // var for counting the value loop
 
-#define BASE 15  PWM
+#define BASE 15                                       //PWM
 
 void setup() {
   delay(2000);
