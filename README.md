@@ -6,10 +6,12 @@ Control 12/24vdc with PWM and a 2N22222
 
 ## Replacing 2n2222 with P30N06LE
 * The 2n2222 was running hot on my 24v LED projet, so I swaped in a P30N06LE
- * 25% = 14.7 vdc
- * 50% = 17.8 vdc
- * 75% = 20.8 vdc
- * 100% = 23.6 vdc
+* Duty cycle 
+  * 1% = 11.7 vdc
+  * 25% = 14.7 vdc
+  * 50% = 17.8 vdc
+  * 75% = 20.8 vdc
+  * 100% = 23.6 vdc
 * I did not use C1 for the LED project
 
 ## Warning
